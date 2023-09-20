@@ -309,14 +309,6 @@ h4.dateline {
 	font-style: italic;
 }
 
-h2.title {
-	
-}
-
-h3.subtitle {
-
-}
-
 hr.purple {
 	border: 2px solid #9A68C5;
 }
@@ -327,10 +319,6 @@ hr.grey {
 
 hr.black {
 	border: 2px solid #4F4F4F;
-}
-
-h1.title {
-	
 }
 
 a {
@@ -351,4 +339,14 @@ a.intra {
 a.intra:visited {
 	color: #000000;
 	text-decoration: none;
+}
+
+mark.sd {
+	color: #000000;
+	background-color: #ceb2e7;
+}
+
+mark.cgpt {
+	color: #000000;
+	background-color: #c0ded7;
 }
