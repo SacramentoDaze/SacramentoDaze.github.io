@@ -240,7 +240,7 @@ body {
 @media only screen and (min-width: 1200px) {
 	.main {
 		float: left;
-		width: 40%;
+		width: 50%;
 		padding-left: 15%;
 		padding-right: 25%;
 	}
